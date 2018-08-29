@@ -1,0 +1,35 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR47vJju1liEh0Uc8y4uYC6J-vPSqZ9QhsiY3gakcOD2kQKa2_m");
+	background-size: cover;
+}
+
+.rqg {
+    margin: 90px 50px 20px 50px;
+}
+
+h1{
+    font-family: sans-serif;
+    font-size: 40px;
+    
+}
+p{
+    padding-top: 10px;
+    font-family: monospace;
+    font-size: 25px;
+
+}
+
+.quotes{
+    margin: 5px 50px 20px 50px;
+    text-align: center;
+    border: dashed 2px black;
+    height: 320px;
+    width: 1050px;
+    border-radius: 20px;
+	color: #082957
+}
+
+.author{
+	text-align: right;
+	margin: 5px;
+}
